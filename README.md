@@ -9,8 +9,3 @@ I earned a master's degree in Computer Science and Engineering and have since be
 
 ## My Github:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=kirannasim&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub)](#)
-
-[![Profile views](https://komarev.com/ghpvc/?username=kirannasim&label=Profile+views&color=blue&style=flat&abbreviated=0)](#)
-[![GitHub followers](https://img.shields.io/github/followers/kirannasim?style=flat)](#)
-[![GitHub User's stars](https://img.shields.io/github/stars/kirannasim?style=flat)](#)
-[![GitHub forks](https://img.shields.io/github/forks/kirannasim/kirannasim?style=flat)](#)
